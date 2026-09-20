@@ -46,3 +46,5 @@ The objective is to create a dynamic dashboard that provides a clear view of car
 ## 4 Project Outcome
 
 The project demonstrates how Power BI, Power Query, DAX, and data visualization can be used to transform car sales data into an interactive business dashboard and support data-driven decision-making.
+## screenshot 
+https://github.com/gauravkr91556-commits/Car-Sales-Dashboard-Power/blob/main/Car_Sales_Dashboard_PowerBI.png.png
